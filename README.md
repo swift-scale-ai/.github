@@ -4,7 +4,7 @@
 
 ### Local-first AI developer tools and native macOS utilities
 
-I’m **Janus Zhang**, building dependable tools that keep developers close to their code, data, and machines.
+Building dependable tools that keep developers close to their code, data, and machines.
 
 [![Website](https://img.shields.io/badge/Website-swift--scale.com-0969da?style=for-the-badge)](https://swift-scale.com)
 [![macOS](https://img.shields.io/badge/macOS-Apple_Silicon-000000?style=for-the-badge&logo=apple)](https://github.com/swiftscalecloud?tab=repositories)
