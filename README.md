@@ -7,7 +7,7 @@
 We build dependable, inspectable tools that keep developers close to their code, data, and machines.
 
 [![Website](https://img.shields.io/badge/Website-swift--scale.com-0969da?style=for-the-badge)](https://swift-scale.com)
-[![Documentation](https://img.shields.io/badge/Docs-dev.swift--scale.com-0b7285?style=for-the-badge)](https://dev.swift-scale.com/docs/)
+[![Documentation](https://img.shields.io/badge/Docs-swift--scale.com%2Fdocs-0b7285?style=for-the-badge)](https://swift-scale.com/docs/)
 [![SwiftCoder](https://img.shields.io/badge/SwiftCoder-open_source-111827?style=for-the-badge&logo=github)](https://github.com/swift-scale-ai/swiftcoder)
 
 </div>
@@ -24,7 +24,7 @@ We build dependable, inspectable tools that keep developers close to their code,
 SwiftScale provides the identity, model routing, capacity, usage controls, and OpenAI-compatible APIs that power our agent products.
 
 - **[SwiftCoder](https://swiftcoder.io)** — a focused desktop and terminal coding agent.
-- **[Developer documentation](https://dev.swift-scale.com/docs/)** — API access, authentication, model routing, and Coding Plan guides.
+- **[Developer documentation](https://swift-scale.com/docs/)** — API access, authentication, model routing, and Coding Plan guides.
 - **[SwiftScale](https://swift-scale.com)** — product information, plans, and platform updates.
 
 ## Native developer utilities
