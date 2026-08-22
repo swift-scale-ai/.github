@@ -33,10 +33,10 @@ Our SwiftScale Labs projects explore focused, visual replacements for classic co
 
 | Project | What it does | Download |
 | --- | --- | --- |
-| **[ReTop](https://github.com/swiftscalecloud/ReTop)** | A colorful process and system monitor with per-core CPU, memory, swap, and per-interface network views. | [Latest release](https://github.com/swiftscalecloud/ReTop/releases/latest) |
-| **[ReMTR](https://github.com/swiftscalecloud/ReMTR)** | A graphical network-path monitor with loss, latency, jitter, route changes, and RTT history. | [Latest release](https://github.com/swiftscalecloud/ReMTR/releases/latest) |
-| **[ReDu](https://github.com/swiftscalecloud/ReDu)** | A read-only visual disk-usage analyzer with tree navigation, allocated sizes, and file-type insights. | [Latest release](https://github.com/swiftscalecloud/ReDu/releases/latest) |
-| **[ReGet](https://github.com/swiftscalecloud/ReGet)** | A visual download manager with progress, speed history, resumable transfers, and controlled cancellation. | [Latest release](https://github.com/swiftscalecloud/ReGet/releases/latest) |
+| **[ReTop](https://github.com/swift-scale-ai/ReTop)** | A colorful process and system monitor with per-core CPU, memory, swap, and per-interface network views. | [Latest release](https://github.com/swift-scale-ai/ReTop/releases/latest) |
+| **[ReMTR](https://github.com/swift-scale-ai/ReMTR)** | A graphical network-path monitor with loss, latency, jitter, route changes, and RTT history. | [Latest release](https://github.com/swift-scale-ai/ReMTR/releases/latest) |
+| **[ReDu](https://github.com/swift-scale-ai/ReDu)** | A read-only visual disk-usage analyzer with tree navigation, allocated sizes, and file-type insights. | [Latest release](https://github.com/swift-scale-ai/ReDu/releases/latest) |
+| **[ReGet](https://github.com/swift-scale-ai/ReGet)** | A visual download manager with progress, speed history, resumable transfers, and controlled cancellation. | [Latest release](https://github.com/swift-scale-ai/ReGet/releases/latest) |
 
 ## Principles
 
