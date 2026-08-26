@@ -29,7 +29,6 @@ We build dependable, inspectable tools that keep developers close to their code,
 
 SwiftScale provides the identity, model routing, capacity, usage controls, and OpenAI-compatible APIs that power our agent products.
 
-- **[SwiftCoder](https://swiftcoder.io)** — a focused desktop and terminal coding agent.
 - **[Developer documentation](https://swift-scale.com/docs/)** — API access, authentication, model routing, and Coding Plan guides.
 - **[SwiftScale](https://swift-scale.com)** — product information, plans, and platform updates.
 
