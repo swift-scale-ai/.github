@@ -12,13 +12,13 @@ We build dependable, inspectable tools that keep developers close to their code,
 
 </div>
 
-## Self-hosted AI infrastructure
+## Open Source Projects
 
 | Project | What it does | Start here |
 | --- | --- | --- |
 | **[OpenSwiftScale](https://github.com/swift-scale-ai/openswiftscale)** | A lightweight, self-hosted AI gateway with OpenAI-compatible APIs, encrypted provider credentials, and deterministic routing across official, third-party, and local model endpoints. | [Repository](https://github.com/swift-scale-ai/openswiftscale) · [Documentation](https://github.com/swift-scale-ai/openswiftscale/tree/main/docs) |
 
-## Open-source projects
+## Open Source AI Agent
 
 | Project | What it does | Start here |
 | --- | --- | --- |
