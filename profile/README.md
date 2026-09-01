@@ -67,7 +67,7 @@ Release trust         GitHub Actions · Developer ID · Apple notarization · SH
 
 ```bash
 # Install the SwiftCoder CLI on macOS or Linux
-curl -fsSL https://swiftscale.app/swiftcoder/install.sh | sh
+curl -fsSL https://swiftcoder.io/install.sh | sh
 
 # Then authenticate and start a repository task
 swiftcoder login
