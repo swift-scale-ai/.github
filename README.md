@@ -17,7 +17,6 @@ We build dependable, inspectable tools that keep developers close to their code,
 | Project | What it does | Start here |
 | --- | --- | --- |
 | **[SwiftCoder](https://github.com/swift-scale-ai/swiftcoder)** | A local-first AI coding agent that can understand a repository, plan work, edit files, run commands, review changes, and verify results. | [Repository](https://github.com/swift-scale-ai/swiftcoder) · [Releases](https://github.com/swift-scale-ai/swiftcoder/releases/latest) |
-| **[SwiftCore](https://github.com/swift-scale-ai/swiftcore)** | The shared agent runtime behind SwiftCoder and other SwiftScale applications: sessions, tools, permissions, models, protocols, persistence, plugins, and reusable UI. | [Explore the code](https://github.com/swift-scale-ai/swiftcore) |
 
 ## SwiftScale platform
 
